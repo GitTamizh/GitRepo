@@ -1,0 +1,4 @@
+
+This is sample file that to be created local folder for testing
+please refere GIT command file in git repositary
+.........
